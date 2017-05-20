@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Aplicacion</title>
+    <title>Aplicación</title>
   </head>
   <body>
     <form action="home.php">
