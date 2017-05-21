@@ -7,6 +7,9 @@
   <body>
     <form action="home.php">
      <div class="container">
+     <div>
+     <p>CAPTCHA</p>
+     </div>
 
        <label><b>Username</b></label>
        <input type="text" placeholder="Enter Username" name="uname" required>
