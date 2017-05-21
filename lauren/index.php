@@ -5,7 +5,7 @@
     <title>Aplicación</title>
   </head>
   <body>
-    <form action="homes.php">
+    <form action="home.php">
      <div class="container">
 
        <label><b>Username</b></label>
